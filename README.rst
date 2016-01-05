@@ -27,7 +27,6 @@ To get more help:
 
 * Join the #django channel on irc.freenode.net. Lots of helpful people hang out
   there. Read the archives at http://django-irc-logs.com/.
-
 * Join the django-users mailing list, or read the archives, at
   https://groups.google.com/group/django-users.
 
